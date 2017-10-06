@@ -12,4 +12,4 @@ which is not an issue for us, is it?
 You can buy a module to support this functionality around $20 or 
 simply build yours and get some fun and valuable experience.
 
-Extremely simple coding to build LED power button.
+Extremely simple coding to build LED power button for Raspberry Pi.
